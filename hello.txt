@@ -27,3 +27,5 @@
 <li> 원격 저장소
 <li> push
 <li> push2
+
+<li> push. goodkim
