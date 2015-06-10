@@ -26,3 +26,4 @@
 <li> 마스터 
 <li> 원격 저장소
 <li> push
+<li> push2
