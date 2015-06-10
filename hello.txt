@@ -32,3 +32,6 @@ goodkim 5น๘ มู ว๙พ๗~~
 
 <li> push. goodkim
 <li> pull. ibelivekim
+
+<li> pull. ibelivekim1
+<li> pull. ibelivekim2
